@@ -1,2 +1,2 @@
 #!/bin/sh
-ng build --output-path=../ChromeExtension
+ng build --output-path="ChromeExtension"
